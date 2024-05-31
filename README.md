@@ -9,7 +9,9 @@ Dieses Projekt ist eine persönliche Portfolio-App, die mit Flutter entwickelt w
 ## Voraussetzungen: 
 
 1- Dart & Flutter SDK instalieren
+
 2- Entwicklungsumgebung z.B. IntelliJ IDEA oder Visual Studio Code.
+
 3- Internetverbindung 
 
 ## Anweisungen: 
