@@ -29,4 +29,5 @@ cd Portfolio_5338502
 flutter pub get
 
 4- Um meine Portfolio-App in Goolgechrome Browser auszuführen: 
+
 flutter run -d chrome
